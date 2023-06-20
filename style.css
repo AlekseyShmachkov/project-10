@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1920px;
+
+}
+.two_logo{
+    width: 416px;
+    height: 540px;
+    background-image: url('./img/two.png');
+    top: 1049px;
+    left: 312px;
+    border-radius: 10px;
+}
+ .three_logo{
+    width: 416px;
+    height: 258px;
+    top: 1049px;
+    left: 752px;
+    border-radius: 10px;
+ }
+ .four_logo{
+    width: 416px;
+    height: 258px;
+    top: 1049px;
+    left: 1192px;
+    border-radius: 10px;
+ }
+ .five_logo{
+    width: 416px;
+    height: 258px;
+    top: 1331px;
+    left: 752px;
+    border-radius: 10px;
+ }
+ .six_logo{
+    width: 416px;
+    height: 258px;
+    top: 1049px;
+    left: 1192px;
+    border-radius: 10px;
+ }
+ 
