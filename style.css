@@ -17,6 +17,7 @@ body{
  .three_logo{
     width: 416px;
     height: 258px;
+    background-image: url('./img/three.png');
     top: 1049px;
     left: 752px;
     border-radius: 10px;
@@ -24,6 +25,7 @@ body{
  .four_logo{
     width: 416px;
     height: 258px;
+    background-image: url('./img/four.png');
     top: 1049px;
     left: 1192px;
     border-radius: 10px;
@@ -31,6 +33,7 @@ body{
  .five_logo{
     width: 416px;
     height: 258px;
+    background-image: url('./img/five.png');
     top: 1331px;
     left: 752px;
     border-radius: 10px;
@@ -38,6 +41,7 @@ body{
  .six_logo{
     width: 416px;
     height: 258px;
+    background-image: url('./img/six.png');
     top: 1049px;
     left: 1192px;
     border-radius: 10px;
