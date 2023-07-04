@@ -8,7 +8,6 @@ body{
     background-color: #162831;
     color: white;
 }
-/* Меню */
 header{
     width: 1298px;
     height: 60px;
@@ -34,10 +33,6 @@ header button{
     background-color: #018ABE;
     border-radius: 10px;
 }
-/* ---------------------------------Основной контент -----------------------------*/
-
-/* Укрепление здоровья */
-
 .heads_logo{
     width: 1296px;
     height: 680px;
@@ -77,8 +72,7 @@ header button{
     border-radius: 10px;
     margin-top: -28%;
     margin-left: 750px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 .four_logo{
     display: flex;
@@ -168,10 +162,8 @@ header button{
     height: 34px;
     font-size: 24px;
     margin: 276px auto 0 auto;
-                             
-}
+}                        
 .heads_logo h1{
     margin-top: 20px;
     font-size: 64px;
 }
-/* Сеансы Ritm Style */
