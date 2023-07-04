@@ -44,15 +44,131 @@ header button{
     background-image: url('./img/water.png');
     background-repeat: no-repeat;
     margin: 140px auto 0 auto;
-    margin-top: 200px;
+    margin-top: -0.1%;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.siance{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.two_logo{
+    display: flex;
+    align-items: flex-end;
+    width: 416px;
+    height: 540px;
+    background-image: url('./img/two.png');
+    top: 1049px;
+    left: 312px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.three_logo{
+    display: flex;
+    align-items: flex-end;
+    width: 416px;
+    height: 258px;
+    background-image: url('./img/three.png');
+    top: 1049px;
+    left: 752px;
+    border-radius: 10px;
+    margin-top: -28%;
+    margin-left: 750px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.four_logo{
+    display: flex;
+    align-items: flex-end;
+    width: 416px;
+    height: 258px;
+    background-image: url('./img/four.png');
+    top: 1331px;
+    left: 752px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    margin-left: 750px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.five_logo{
+    display: flex;
+    align-items: flex-end;
+    width: 416px;
+    height: 258px;
+    top: 1049px;
+    left: 1192px;
+    border-radius: 10px;
+    background-image: url('./img/five.png');
+    margin-left: 1200px;
+    margin-top: -28%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.six_logo{
+    display: flex;
+    align-items: flex-end;
+    width: 416px;
+    height: 258px;
+    top: 1331px;
+    left: 1192px;
+    border-radius: 10px;
+    background-image: url('./img/six.png');
+    margin-left: 1200px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.reviews{
+    width: 1736px;
+    height: 585px;
+    top: 1739px;
+    left: 92px;
+    background-image: url('./img/reviews.png');
+    margin: 100px auto 0 auto;
+}
+.about{
+    width: 1076px;
+    height: 1024px;
+    top: 2474px;
+    left: 422px;
+    background-image: url('./img/about.png');
+    margin: 100px auto 0 auto;
+    background-repeat: no-repeat;
+}
+.price{
+    width: 1076px;
+    height: 614px;
+    top: 3648px;
+    left: 422px;
+    background-image: url(./img/price.png);
+    background-repeat: no-repeat;
+    margin: 100px auto 0 auto;
+}
+.contacts{
+    width: 1296px;
+    height: 604px;
+    top: 4412px;
+    left: 312px;
+    background-image: url('./img/contacts.png');
+    margin: 100px auto 0 auto;
+}
+.footer{
+    width: 1296px;
+    height: 19px;
+    top: 5106px;
+    left: 312px;
+    background-image: url('./img/main-footer.png');
+    margin: 100px auto 0 auto;
+    margin-top: 30px;
 }
 .heads_logo h3{
     width: 241px;
     height: 34px;
     font-size: 24px;
     margin: 276px auto 0 auto;
-    margin-top: ;                         
+                             
 }
 .heads_logo h1{
     margin-top: 20px;
